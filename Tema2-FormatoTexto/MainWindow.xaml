@@ -1,0 +1,21 @@
+﻿<Window x:Class="Tema2_FormatoTexto.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tema2_FormatoTexto"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="CuadroTextBox" HorizontalAlignment="Left" Height="104" Margin="82,132,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182" UndoLimit="97" TextDecorations="{x:Null}" TextChanged="CuadroTextBox_TextChanged" BorderBrush="#FF1246E0"/>
+        <CheckBox x:Name="NegritaCheckBox" Content="Negrita" HorizontalAlignment="Left" Margin="302,173,0,0" VerticalAlignment="Top" Checked="NegritaCheckBox_Checked" FontWeight="Bold" Unchecked="NegritaCheckBox_Unchecked"/>
+        <CheckBox x:Name="CursivaCheckBox" Content="Cursiva" HorizontalAlignment="Left" Margin="402,173,0,0" VerticalAlignment="Top" Checked="CursivaCheckBox_Checked" Cursor="" Unchecked="CursivaCheckBox_Unchecked" FontStyle="Italic"/>
+        <TextBlock x:Name="TituloTextBlock" Background="#FFFDFFDD" HorizontalAlignment="Left" Margin="154,302,0,0" TextWrapping="Wrap" VerticalAlignment="Top"  TextTrimming="CharacterEllipsis" TextAlignment="Center" Height="70" Width="518"/>
+        <RadioButton x:Name="AzulButton" Content="Azul" HorizontalAlignment="Left" Margin="623,132,0,0" VerticalAlignment="Top" Checked="AzulButton_Checked"/>
+        <RadioButton x:Name="RojoButton" Content="Rojo" HorizontalAlignment="Left" Margin="623,164,0,0" VerticalAlignment="Top" Checked="RojoButton_Checked"/>
+        <RadioButton x:Name="VerdeButton" Content="Verde" HorizontalAlignment="Left" Margin="623,200,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.041,-4.1" Checked="VerdeButton_Checked"/>
+        <TextBlock HorizontalAlignment="Left" Margin="82,111,0,0" TextWrapping="Wrap" Text="Texto" VerticalAlignment="Top" FontSize="14"/>
+        <TextBlock HorizontalAlignment="Left" Margin="546,160,0,0" TextWrapping="Wrap" Text="Color Texto" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+D:\DAM\Desarrollo de interfaces\Tema2-FormatoTexto\Tema2-FormatoTexto\obj\Debug\Tema2-FormatoTexto.csprojAssemblyReference.cache
+D:\DAM\Desarrollo de interfaces\Tema2-FormatoTexto\Tema2-FormatoTexto\obj\Debug\MainWindow.g.cs
+D:\DAM\Desarrollo de interfaces\Tema2-FormatoTexto\Tema2-FormatoTexto\obj\Debug\App.g.cs
+D:\DAM\Desarrollo de interfaces\Tema2-FormatoTexto\Tema2-FormatoTexto\obj\Debug\Tema2-FormatoTexto_MarkupCompile.cache
+D:\DAM\Desarrollo de interfaces\Tema2-FormatoTexto\Tema2-FormatoTexto\obj\Debug\Tema2-FormatoTexto_MarkupCompile.lref
+D:\DAM\Desarrollo de interfaces\Tema2-FormatoTexto\Tema2-FormatoTexto\bin\Debug\Tema2-FormatoTexto.exe.config
+D:\DAM\Desarrollo de interfaces\Tema2-FormatoTexto\Tema2-FormatoTexto\bin\Debug\Tema2-FormatoTexto.exe
+D:\DAM\Desarrollo de interfaces\Tema2-FormatoTexto\Tema2-FormatoTexto\bin\Debug\Tema2-FormatoTexto.pdb
+D:\DAM\Desarrollo de interfaces\Tema2-FormatoTexto\Tema2-FormatoTexto\obj\Debug\MainWindow.baml
+D:\DAM\Desarrollo de interfaces\Tema2-FormatoTexto\Tema2-FormatoTexto\obj\Debug\Tema2-FormatoTexto.g.resources
+D:\DAM\Desarrollo de interfaces\Tema2-FormatoTexto\Tema2-FormatoTexto\obj\Debug\Tema2_FormatoTexto.Properties.Resources.resources
+D:\DAM\Desarrollo de interfaces\Tema2-FormatoTexto\Tema2-FormatoTexto\obj\Debug\Tema2-FormatoTexto.csproj.GenerateResource.cache
+D:\DAM\Desarrollo de interfaces\Tema2-FormatoTexto\Tema2-FormatoTexto\obj\Debug\Tema2-FormatoTexto.csproj.CoreCompileInputs.cache
+D:\DAM\Desarrollo de interfaces\Tema2-FormatoTexto\Tema2-FormatoTexto\obj\Debug\Tema2-FormatoTexto.exe
+D:\DAM\Desarrollo de interfaces\Tema2-FormatoTexto\Tema2-FormatoTexto\obj\Debug\Tema2-FormatoTexto.pdb
